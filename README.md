@@ -17,6 +17,7 @@ a Shield for pycom-modules with Weight, Temperature, audio and I2C sensor-connec
 
 # copyright
 Software: GPL 3.0 and following versions
+
 Hardware: CERN OHL 1.2 and following versions
 
 
