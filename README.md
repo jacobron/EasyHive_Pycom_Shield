@@ -12,6 +12,8 @@ a Shield for pycom-modules with Weight, Temperature, audio and I2C sensor-connec
 * you can replace R5 with an 103AT Thermistor to prevent load into the battery at -0°C temperatures
 * BOM for V1.1 is still not written. so you have to check things yourself and use the BOM from Version 1.0 and the schematic.
 
+# Software
+* Software is not updated yet to the new Hardware Design File. You're welcome to change that!
 
 # copyright
 Software: GPL 3.0 and following versions
